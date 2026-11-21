@@ -1,6 +1,6 @@
-coverage==5.5
+coverage==7.17.3
 deprecation==2.1.0
 eyed3==0.9.7
 filetype==1.2.0
-packaging==23.2
+packaging==26.3
 toml==0.10.2
